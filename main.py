@@ -1,4 +1,4 @@
-from scraper import DiscomDrawalScheduleScraper
+from scraper_gh import DiscomDrawalScheduleScraper
 from datetime import datetime
 
 
